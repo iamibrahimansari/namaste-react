@@ -1,0 +1,20 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react web series",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "web",
+    "series",
+    "react.js"
+  ],
+  "author": "Yasin Ansari",
+  "license": "ISC",
+  "devDependencies": {
+    "create-vite": "^5.4.0"
+  }
+}
